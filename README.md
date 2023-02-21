@@ -2,7 +2,7 @@
 
 HooBank is a modern responsive banking application built using React JS and Tailwind CSS
 
-## The App that puts the 'Short' in Shortened URLs
+## Modern banking at your fingertips
 
 !["screenshot of main section"](https://github.com/Staxisfun/modern_bank_app/blob/main/docs/HooBank_mainpage.png?raw=true)
 !["screenshot of card section"](https://github.com/Staxisfun/modern_bank_app/blob/main/docs/HooBank_Card.png?raw=true)
